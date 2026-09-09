@@ -130,7 +130,7 @@ export default function Footer() {
                   strokeLinejoin="round"
                 />
               </svg>
-              <span className="font-display text-xl font-bold">Movade</span>
+              <span className="font-display text-xl font-bold">Nomade</span>
             </button>
             <p className="mt-4 max-w-xs text-sm font-bold leading-relaxed text-text-primary">
               Explore the world, one journey at a time — personalized,
@@ -194,7 +194,7 @@ export default function Footer() {
 
         <div className="mt-auto flex flex-col items-center justify-between gap-4 pt-6 md:flex-row md:pt-8">
           <p className="text-xs font-bold text-text-primary">
-            © 2026 Movade. All rights reserved.
+            © 2026 Nomade. All rights reserved.
           </p>
           <div className="flex items-center gap-3">
             {SOCIALS.map((social) => (

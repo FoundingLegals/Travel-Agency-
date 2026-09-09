@@ -15,7 +15,7 @@ export default function TravelNetwork() {
         </h2>
         <p className="mt-4 text-sm leading-relaxed text-text-muted md:text-base">
           From Dhaka to the world&apos;s most sought-after coastlines and
-          skylines — Movade plans the route, you enjoy the journey.
+          skylines — Nomade plans the route, you enjoy the journey.
         </p>
       </Reveal>
 

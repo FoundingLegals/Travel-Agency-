@@ -123,7 +123,7 @@ export default function Navbar() {
         <span
           className={`font-display text-xl font-bold tracking-tight transition-colors duration-300 ${textColor}`}
         >
-          Movade
+          Nomade
         </span>
       </button>
 

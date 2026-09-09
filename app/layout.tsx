@@ -18,7 +18,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Movade — Explore the World, One Journey at a Time",
+  title: "Nomade — Explore the World, One Journey at a Time",
   description:
     "Our travel agency offers personalized and hassle-free travel experiences, tailored to meet your unique preferences and needs.",
 };
